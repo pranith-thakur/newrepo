@@ -1,0 +1,10 @@
+/MyDotNetApi
+    /Controllers
+        WeatherForecastController.cs
+    /Models
+        WeatherForecast.cs
+    Program.cs
+    Startup.cs
+    MyDotNetApi.csproj
+    .gitignore
+    README.md
